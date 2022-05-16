@@ -1,3 +1,3 @@
-"key[String]","asset[Asset Reference]","template[Asset Reference]"
-"jp","2143EEA89A82BBEF","EC1595FD5B64ECBB"
-"ct","CF9B86A36A536328","1128C4745E744C2D"
+"key[String]","asset[Asset Reference]","template[Asset Reference]","scale[Vector3]"
+"jp","2143EEA89A82BBEF","EC1595FD5B64ECBB","1.000000,1.000000,1.000000"
+"ct","CF9B86A36A536328","1128C4745E744C2D","3.000000,1.600000,0.850000"
