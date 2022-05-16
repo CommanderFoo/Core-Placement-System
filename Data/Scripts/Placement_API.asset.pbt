@@ -22,6 +22,18 @@ Assets {
           Id: 4968034480831954642
         }
       }
+      Overrides {
+        Name: "cs:Ignored"
+        AssetReference {
+          Id: 917141383909866154
+        }
+      }
+      Overrides {
+        Name: "cs:DebugObject"
+        AssetReference {
+          Id: 2259978967433178374
+        }
+      }
     }
   }
   SerializationVersion: 115

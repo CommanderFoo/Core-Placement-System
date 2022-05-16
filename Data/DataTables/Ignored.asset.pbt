@@ -3,7 +3,7 @@ Assets {
   Name: "Ignored"
   PlatformAssetType: 31
   SerializationVersion: 115
-  VirtualFolderPath: "Placement"
+  VirtualFolderPath: "Placement System"
   DataTableAsset {
   }
 }

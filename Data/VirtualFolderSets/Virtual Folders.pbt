@@ -37,5 +37,17 @@ Assets {
       VirtualFolderPath: "Placement System"
       PlatformAssetType: 13
     }
+    Folders {
+      VirtualFolderPath: "Placement System"
+      PlatformAssetType: 31
+    }
+    Folders {
+      VirtualFolderPath: "Placement System"
+      PlatformAssetType: 5
+    }
+    Folders {
+      VirtualFolderPath: "Placement System"
+      PlatformAssetType: 29
+    }
   }
 }

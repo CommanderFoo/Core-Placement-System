@@ -3,6 +3,7 @@ Assets {
   Name: "Placement System"
   PlatformAssetType: 29
   SerializationVersion: 115
+  VirtualFolderPath: "Placement System"
   BindingSetAsset {
     Bindings {
       BindingType {
@@ -68,6 +69,29 @@ Assets {
         }
       }
       Action: "Rotate Object"
+      CoreBehavior {
+        Value: "mc:ecorebehavior:none"
+      }
+      IsEnabledOnStart: true
+    }
+    Bindings {
+      BindingType {
+        Value: "mc:ebindingtype:basic"
+      }
+      BasicBindingData {
+        BasicInputs {
+          KeyboardPrimary {
+            Value: "mc:ebindingkeyboard:leftcontrol"
+          }
+          KeyboardSecondary {
+            Value: "mc:ebindingkeyboard:none"
+          }
+          Controller {
+            Value: "mc:ebindinggamepad:none"
+          }
+        }
+      }
+      Action: "Lock Object Z"
       CoreBehavior {
         Value: "mc:ecorebehavior:none"
       }
